@@ -22,6 +22,10 @@
   align-items: center;
 }
 
+.wrap {
+  flex-wrap: wrap;
+}
+
 /* HEADER */
 
 header {
@@ -30,8 +34,18 @@ header {
   line-height: 60px;
   background-color: #ff6900;
   color: white;
+  margin-bottom: 60px;
 }
 
 header img {
   width: 120px;
+}
+
+/* MAIN */
+
+.card {
+  width: calc(100% / 3);
+  height: 500px;
+  border: 2px dashed black;
+  margin: 0 5px 10px 5px;
 }
