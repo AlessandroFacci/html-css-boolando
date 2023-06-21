@@ -39,10 +39,6 @@ a {
   align-items: center;
 }
 
-.wrap {
-  flex-wrap: wrap;
-}
-
 /* HEADER */
 
 header {
@@ -60,9 +56,6 @@ header img {
 
 ul li {
   margin: 0 4px;
-}
-
-li a {
   font-size: 12px;
   font-weight: bold;
 }
@@ -155,9 +148,35 @@ li a {
 
 footer {
   width: 100%;
-  height: 50px;
-  line-height: 60px;
+  height: 60px;
   margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 60px;
+  border-bottom: 1px solid white;
   background-color: #1a1a1a;
   color: white;
+}
+
+.info {
+  line-height: 20px;
+}
+
+.boolando {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.info-point {
+  margin-right: 2px;
+  font-size: 0.6rem;
+}
+
+.search {
+  font-size: 0.6rem;
+  font-weight: bold;
+}
+
+.info-channel {
+  line-height: 20px;
+  text-align: center;
 }
