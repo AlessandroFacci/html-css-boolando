@@ -95,7 +95,7 @@ li a {
 
 .discount {
   padding: 3px 6px;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: bold;
   background-color: red;
   color: white;
@@ -106,15 +106,15 @@ li a {
 }
 
 .natural {
-  padding: 3px 6px;
-  font-size: 12px;
+  padding: 3px 8px;
+  font-size: 10px;
   font-weight: bold;
   background-color: green;
   color: white;
 
   position: absolute;
   bottom: 32px;
-  left: 43px;
+  left: 38px;
 }
 
 .brand {
