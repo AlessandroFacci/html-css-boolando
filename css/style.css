@@ -180,3 +180,101 @@ footer {
   line-height: 20px;
   text-align: center;
 }
+
+/* HOVER */
+
+.card-1 {
+  display: block;
+}
+
+.card-1b {
+  display: none;
+}
+
+.img-change:hover .card-1 {
+  display: none;
+}
+
+.img-change:hover .card-1b {
+  display: block;
+}
+
+.card-2 {
+  display: block;
+}
+
+.card-2b {
+  display: none;
+}
+
+.img-change:hover .card-2 {
+  display: none;
+}
+
+.img-change:hover .card-2b {
+  display: block;
+}
+
+.card-3 {
+  display: block;
+}
+
+.card-3b {
+  display: none;
+}
+
+.img-change:hover .card-3 {
+  display: none;
+}
+
+.img-change:hover .card-3b {
+  display: block;
+}
+
+.card-4 {
+  display: block;
+}
+
+.card-4b {
+  display: none;
+}
+
+.img-change:hover .card-4 {
+  display: none;
+}
+
+.img-change:hover .card-4b {
+  display: block;
+}
+
+.card-5 {
+  display: block;
+}
+
+.card-5b {
+  display: none;
+}
+
+.img-change:hover .card-5 {
+  display: none;
+}
+
+.img-change:hover .card-5b {
+  display: block;
+}
+
+.card-6 {
+  display: block;
+}
+
+.card-6b {
+  display: none;
+}
+
+.img-change:hover .card-6 {
+  display: none;
+}
+
+.img-change:hover .card-6b {
+  display: block;
+}
