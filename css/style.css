@@ -51,7 +51,7 @@ header {
   line-height: 60px;
   background-color: #ff6900;
   color: white;
-  margin-bottom: 60px;
+  margin-bottom: 45px;
 }
 
 header img {
@@ -70,10 +70,9 @@ li a {
 /* MAIN */
 
 .card {
-  width: calc(100% / 3);
+  width: calc(100% / 3 - 10px);
   min-height: 500px;
-  border: 2px dashed black;
-  margin: 0 5px 10px 5px;
+  margin: 0 10px 40px 5px;
 }
 
 .card img {
