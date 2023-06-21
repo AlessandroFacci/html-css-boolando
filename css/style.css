@@ -278,3 +278,7 @@ footer {
 .img-change:hover .card-6b {
   display: block;
 }
+
+.hearts:hover {
+  color: red;
+}
