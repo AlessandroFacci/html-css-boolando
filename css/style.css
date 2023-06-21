@@ -97,22 +97,22 @@ header img {
 }
 
 .brand {
-  font-size: small;
+  font-size: 12px;
 }
 
 .description {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 .price {
-  font-size: small;
+  font-size: 11px;
   font-weight: bold;
   color: red;
 }
 
 .old-price {
-  font-size: small;
+  font-size: 11px;
   font-weight: normal;
   text-decoration: line-through;
   color: black;
