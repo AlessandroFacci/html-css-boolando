@@ -183,6 +183,8 @@ footer {
 
 /* HOVER */
 
+/* card 1 */
+
 .card-1 {
   display: block;
 }
@@ -198,6 +200,8 @@ footer {
 .img-change:hover .card-1b {
   display: block;
 }
+
+/* card 2 */
 
 .card-2 {
   display: block;
@@ -215,6 +219,8 @@ footer {
   display: block;
 }
 
+/* card 3 */
+
 .card-3 {
   display: block;
 }
@@ -230,6 +236,8 @@ footer {
 .img-change:hover .card-3b {
   display: block;
 }
+
+/* card 4 */
 
 .card-4 {
   display: block;
@@ -247,6 +255,8 @@ footer {
   display: block;
 }
 
+/* card 5 */
+
 .card-5 {
   display: block;
 }
@@ -262,6 +272,7 @@ footer {
 .img-change:hover .card-5b {
   display: block;
 }
+/* card 6 */
 
 .card-6 {
   display: block;
