@@ -55,7 +55,16 @@ header {
 }
 
 header img {
-  width: 120px;
+  width: 100px;
+}
+
+ul li {
+  margin: 0 4px;
+}
+
+li a {
+  font-size: 12px;
+  font-weight: bold;
 }
 
 /* MAIN */
