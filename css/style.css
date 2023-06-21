@@ -89,3 +89,25 @@ header img {
   bottom: 60px;
   left: 43px;
 }
+
+.brand {
+  font-size: small;
+}
+
+.description {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.price {
+  font-size: small;
+  font-weight: bold;
+  color: red;
+}
+
+.old-price {
+  font-size: small;
+  font-weight: normal;
+  text-decoration: line-through;
+  color: black;
+}
